@@ -1,0 +1,21 @@
+/* body {
+   background-image: url("../img/8.jpeg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   color:white;
+} */
+h1{
+   font-family: 'Lato' ,italic ;
+}
+h3{
+   font-family: 'Lato', sans-serif;
+   font-weight: 400;
+   padding-top: 20px; 
+}
+/* .bg{
+   background-image: url("../img/carbon.png");
+   background-attachment: fixed;
+   background-size: cover;
+} */
